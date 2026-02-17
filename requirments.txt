@@ -6,4 +6,3 @@ groq #EDA process
 seaborn #Vizualizations
 dotenv
 matplotlib
-scikit-learn
